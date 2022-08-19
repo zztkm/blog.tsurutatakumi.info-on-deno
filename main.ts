@@ -1,7 +1,7 @@
 import blog, { ga, redirects } from "https://deno.land/x/blog@0.4.2/blog.tsx";
 
 blog({
-  title: "Become a hacker with zztkm",
+  title: "Be a hacker",
   description: "This is my learning log",
   avatar: "avator.jpeg",
   avatarClass: "rounded-full",
