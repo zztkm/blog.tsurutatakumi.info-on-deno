@@ -6,6 +6,6 @@ Built with [Deno Blog](https://github.com/denoland/deno_blog), powered by [Deno 
 
 local server
 ```shell
-export GA_TRACKING_ID=[YOUR_GA_ID]
+export GA_TRACKING_ID=G-KAIHATSU
 deno task dev
 ```
