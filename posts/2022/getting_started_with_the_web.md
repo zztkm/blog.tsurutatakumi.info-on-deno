@@ -103,3 +103,12 @@ your-site
 > - JavaScript は通常、 HTML と CSS の後に解析され、ページに適用されます。
 >
 > [ウェブのしくみ - ウェブ開発を学ぶ | MDN](https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/How_the_Web_works#order_in_which_component_files_are_parsed)より
+
+## まとめ
+
+とりあえずチュートリアル的に読み進めてみて以下のようなアウトプットが出来上がりました。
+次はHTMLに入門しようかなと思います！
+
+![tsurutatakumi.info](images/tsurutatakumi-info-20220821.png)
+
+https://tsurutatakumi.info/
