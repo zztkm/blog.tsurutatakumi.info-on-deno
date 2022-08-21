@@ -29,6 +29,6 @@ Cloudflare DNS を用いたカスタムドメインの設定については一�
 
 ## その他
 
-Deno Blog のREADMEなどには書かれていないが、記事に tag を設定することができる。
+Deno Blog のREADMEなどには書かれていないが、記事に tag を設定することができます。
 
-設定はこのPRを参考にした。https://github.com/denoland/deno_blog/pull/36
+設定はこのPRを参考にしました。https://github.com/denoland/deno_blog/pull/36
