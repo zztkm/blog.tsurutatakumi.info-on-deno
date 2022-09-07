@@ -1,9 +1,6 @@
 ---
 title: Some thoughts on my role
 publish_date: 2022-09-06
-tags:
-    - "me"
-	- "management"
 ---
 
 自分の役割に関する考察をしてみようと思います。
